@@ -1,13 +1,11 @@
-### Hi! 👋 I'm Hadiid.
+### Hi! 👋 I'm Ardian Wahyu Saputra.
 
 An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
-
-I am currently active as a full stack developer at MY IPM and serve as general secretary of PD IPM Pekanbaru
 
 - 🔭 I'm currently working on the MSIB Program @dicodingacademy
 - 🌱 I'm currently learning about javascript technology for fullstack applications
 - 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to contact me: hadiidandri2000@gmail.com
+- 📫 How to contact me: ardian.wahyusaputra17@gmail.com
 - ⚡ Fun fact: University of Muhammadiyah Riau Information System student
 
 ### Tech Stack
@@ -28,5 +26,5 @@ I am currently active as a full stack developer at MY IPM and serve as general s
 </p>
 
 ### Reach me on
-- <a href="https://www.linkedin.com/in/hadiid-andri-yulison-984a69200/">LinkedIn</a>
-- <a href="https://www.instagram.com/hadiidandriy12/?hl=id">Instagram</a>
+- <a href="https://www.linkedin.com/in/ardian-wahyu-saputra-04ab2b222/">LinkedIn</a>
+- <a href="https://www.instagram.com/ardian_wahyu17">Instagram</a>

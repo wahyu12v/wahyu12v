@@ -1,21 +1,21 @@
-# Halo, Saya Ardian Wahyu Saputra
+# Hello, I'm Ardian Wahyu Saputra
 
-Saya adalah seorang pengembang web yang berfokus pada menciptakan pengalaman pengguna yang menarik dan responsif. Dengan latar belakang dalam HTML, CSS, dan JavaScript, saya senang menggabungkan keterampilan desain dan pengembangan untuk menciptakan situs web yang menarik dan fungsional.
+I am a web developer with a focus on creating engaging and responsive user experiences. With a background in HTML, CSS, and JavaScript, I enjoy combining design and development skills to craft attractive and functional websites.
 
-## Keahlian
+## Skills
 
-- **HTML/CSS/JavaScript**: Menguasai dasar-dasar pengembangan web untuk menciptakan antarmuka pengguna yang dinamis dan menarik.
-- **Bootstrap & Tailwind**: Berpengalaman dalam menggunakan Bootstrap dan Tailwind CSS untuk mempercepat proses pengembangan dan menciptakan tata letak yang responsif.
-- **Database MySQL**: Memiliki pengetahuan yang kuat dalam desain dan pengelolaan database menggunakan MySQL, termasuk query dan optimasi performa.
-- **Problem Solving**: Saya memiliki keterampilan problem-solving yang baik dan senang mengatasi tantangan dalam pengembangan perangkat lunak.
+- **HTML/CSS/JavaScript**: Proficient in the fundamentals of web development to create dynamic and appealing user interfaces.
+- **Bootstrap & Tailwind**: Experienced in using Bootstrap and Tailwind CSS to expedite the development process and create responsive layouts.
+- **MySQL Database**: Strong knowledge in designing and managing databases using MySQL, including querying and performance optimization.
+- **Problem Solving**: I possess excellent problem-solving skills and enjoy tackling challenges in software development.
 
-## Proyek Terbaru
+## Recent Projects
 
 ### Hamka BS 
-Sistem LMS yang digunakan oleh SD muhammadiyah Kampa dan SMP Muhammadiyah Kampa disini saya berpean sebagai Team Leader dan Front End Developer berikut adalah sistemnya : hamka-bs.com
+An LMS system used by Muhammadiyah Kampa Elementary School and Muhammadiyah Kampa Junior High School. Here, I served as the Team Leader and Front-End Developer. The system can be accessed at: [hamka-bs.com](https://hamka-bs.com)
 
-### Sistem Informasi Geografis Apotek Pekanbaru
-Sistem Informasi Geografis Apotek yang digunakan oleh masyarakat Umum yang mana sistem ini masih dalam perkembangan disini saya berpean sebagai Team Leader dan Front End Developer
+### Geographic Information System for Pharmacies in Pekanbaru
+A Geographic Information System for pharmacies used by the general public. This system is still in development, and I played the role of Team Leader and Front-End Developer.
 
 ### My Contact
 <a href="#"><img align="left" alt="HTML" title="HTML" width="21px" src="https://img.icons8.com/color/48/000000/html-5.png" /></a>
@@ -24,13 +24,12 @@ Sistem Informasi Geografis Apotek yang digunakan oleh masyarakat Umum yang mana 
 <a href="#"><img align="left" alt="C++" title="C++" width="21px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a>
 <a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
 <a href="#"><img align="left" alt="CSS" title="CSS" width="21px" src="https://img.icons8.com/color/48/000000/css3.png" /></a>
-<a href="#"><img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="21px" src="https://cdn.worldvectorlogo.com/logos/tailwind-css-1.svg" /></a>
   <br>
   <br>
 
 I enjoy collaborating and sharing knowledge. Let's connect and discuss interesting projects we can work on together!
 
-### GitHub Statistic
+### GitHub Statistics
 <p align="left">
 <a href="https://github.com/wahyu12v">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyu12v&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

@@ -2,7 +2,7 @@
 
 I am a web developer with a focus on creating engaging and responsive user experiences. With a background in HTML, CSS, and JavaScript, I enjoy combining design and development skills to craft attractive and functional websites.
 
-<img src="[https://example.com/typing-gif.gif](https://img.freepik.com/free-vector/animator-working-character-movement-designing-frames-walking_335657-2461.jpg?w=1380&t=st=1708335379~exp=1708335979~hmac=13d171993ea73e5261c78f037375bf993cb4f2b3a490cbad1f476b9e0e8a4db3)" alt="Person typing on a computer" width="300" height="200">
+<img src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?q=80&w=1931&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Person typing on a computer" width="300" height="200">
 
 ## Skills
 

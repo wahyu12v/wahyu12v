@@ -19,7 +19,7 @@ An LMS system used by Muhammadiyah Kampa Elementary School and Muhammadiyah Kamp
 ### Geographic Information System for Pharmacies in Pekanbaru
 A Geographic Information System for pharmacies used by the general public. This system is still in development, and I played the role of Team Leader and Front-End Developer.The system can be accessed at: [SIG](https://github.com/wahyu12v/Sistem_Informasi_Geografis_Apotek_Pekanbaru)
 
-### My Contact
+### My Skills
 <a href="#"><img align="left" alt="HTML" title="HTML" width="21px" src="https://img.icons8.com/color/48/000000/html-5.png" /></a>
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="#"><img align="left" alt="Bootstrap" title="Bootstrap" width="21px" src="https://getbootstrap.com/docs/4.0/assets/img/favicons/favicon.ico" /></a>

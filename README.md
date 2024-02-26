@@ -19,7 +19,6 @@
   <a href="https://github.com/wahyu12v">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyu12v&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <span style="padding-left: 10px;"></span>
   <a href="https://github.com/wahyu12v">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyu12v&layout=compact&langs_count=8&theme=algolia"/>
   </a>

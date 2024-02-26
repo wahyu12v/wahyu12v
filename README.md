@@ -12,7 +12,7 @@
 - **Bootstrap & Tailwind**: Experienced in using Bootstrap and Tailwind CSS to expedite the development process and create responsive layouts.
 - **MySQL Database**: Strong knowledge in designing and managing databases using MySQL, including querying and performance optimization.
 - **Problem Solving**: I possess excellent problem-solving skills and enjoy tackling challenges in software development.
-- **Laravel: Proficient in utilizing the Laravel framework for efficient and scalable web application development.
+- **Laravel**: Proficient in utilizing the Laravel framework for efficient and scalable web application development.
 
 ## Recent Projects
 

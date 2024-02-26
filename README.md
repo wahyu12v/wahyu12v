@@ -14,7 +14,7 @@
 <a href="#"><img align="left" alt="C++" title="C++" width="21px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a>
 <a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
 <a href="#"><img align="left" alt="CSS" title="CSS" width="21px" src="https://img.icons8.com/color/48/000000/css3.png" /></a>
-
+<br>
 <p align="left">
 <a href="https://github.com/wahyu12v">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyu12v&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

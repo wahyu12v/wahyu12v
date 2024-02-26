@@ -15,10 +15,11 @@
 <a href="#"><img align="left" alt="Laravel" title="Laravel" width="21px" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" /></a>
 <a href="#"><img align="left" alt="CSS" title="CSS" width="21px" src="https://img.icons8.com/color/48/000000/css3.png" /></a>
 <br>
-<p align="left" style="margin-right: 10px;">
+<p align="left">
   <a href="https://github.com/wahyu12v">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=wahyu12v&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
+  <span style="padding-left: 10px;"></span>
   <a href="https://github.com/wahyu12v">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=wahyu12v&layout=compact&langs_count=8&theme=algolia"/>
   </a>

@@ -1,7 +1,10 @@
 
 # Hello, I'm Ardian Wahyu Saputra
 
-I am a web developer with a focus on creating engaging and responsive user experiences. With a background in HTML, CSS, and JavaScript, I enjoy combining design and development skills to craft attractive and functional websites.
+<img align="right" style="margin-left: 100;" margin alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
+<h3 align="center">I'm someone who is always learning at every opportunity, exhibiting high work motivation, highly adaptable, and a positive attitude. I embrace challenges with enthusiasm and am a knowledge-hungry learner. I'm a Bangkit 2023 Mobile Development Graduate with Distinction. I contribute as a Teaching Assistant at the Software Engineering Laboratory. . Currently, I'm highly focused on programming, particularly in Mobile and Website. I always strive to give my best in everything I do, constantly seeking opportunities for growth and learning.</h3>
+
 
 ## Skills
 

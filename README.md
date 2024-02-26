@@ -6,23 +6,8 @@
 <h3 align="left">I am an individual who is always hungry for knowledge and eager to learn at every opportunity. I have high work motivation, am very adaptable, and always bring a positive attitude. I welcome challenges with enthusiasm and always try to give my best in everything I do. Currently, my main focus is in the field of web development, especially in the field of mobile and website development. I enjoy facing various challenges and always look for opportunities to grow and learn, especially in keeping up with the latest technological developments.</h3>
 
 
-## Skills
+## My Skills
 
-- **HTML/CSS/JavaScript**: Proficient in the fundamentals of web development to create dynamic and appealing user interfaces.
-- **Bootstrap & Tailwind**: Experienced in using Bootstrap and Tailwind CSS to expedite the development process and create responsive layouts.
-- **MySQL Database**: Strong knowledge in designing and managing databases using MySQL, including querying and performance optimization.
-- **Problem Solving**: I possess excellent problem-solving skills and enjoy tackling challenges in software development.
-- **Laravel**: Proficient in utilizing the Laravel framework for efficient and scalable web application development.
-
-## Recent Projects
-
-### Hamka BS 
-An LMS system used by Muhammadiyah Kampa Elementary School and Muhammadiyah Kampa Junior High School. Here, I served as the Team Leader and Front-End Developer. The system can be accessed at: [hamka-bs.com](https://hamka-bs.com)
-
-### Geographic Information System for Pharmacies in Pekanbaru
-A Geographic Information System for pharmacies used by the general public. This system is still in development, and I played the role of Team Leader and Front-End Developer.The system can be accessed at: [SIG](https://github.com/wahyu12v/Sistem_Informasi_Geografis_Apotek_Pekanbaru)
-
-### My Skills
 <a href="#"><img align="left" alt="HTML" title="HTML" width="21px" src="https://img.icons8.com/color/48/000000/html-5.png" /></a>
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 <a href="#"><img align="left" alt="Bootstrap" title="Bootstrap" width="21px" src="https://getbootstrap.com/docs/4.0/assets/img/favicons/favicon.ico" /></a>
@@ -31,6 +16,14 @@ A Geographic Information System for pharmacies used by the general public. This 
 <a href="#"><img align="left" alt="CSS" title="CSS" width="21px" src="https://img.icons8.com/color/48/000000/css3.png" /></a>
   <br>
   <br>
+
+## Recent Projects
+
+### Hamka BS 
+An LMS system used by Muhammadiyah Kampa Elementary School and Muhammadiyah Kampa Junior High School. Here, I served as the Team Leader and Front-End Developer. The system can be accessed at: [hamka-bs.com](https://hamka-bs.com)
+
+### Geographic Information System for Pharmacies in Pekanbaru
+A Geographic Information System for pharmacies used by the general public. This system is still in development, and I played the role of Team Leader and Front-End Developer.The system can be accessed at: [SIG](https://github.com/wahyu12v/Sistem_Informasi_Geografis_Apotek_Pekanbaru)
 
 I enjoy collaborating and sharing knowledge. Let's connect and discuss interesting projects we can work on together!
 

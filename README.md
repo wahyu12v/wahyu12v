@@ -1,5 +1,7 @@
 
-# Hello, I'm Ardian Wahyu Saputra
+<div align="center">
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=7196E3&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I+am+Ardian+Wahyu+Saputra" alt="Typing SVG" />
+</div>
 
 <img align="right" style="margin-left: 100;" margin alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
